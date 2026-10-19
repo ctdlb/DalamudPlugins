@@ -65,6 +65,33 @@
     "DownloadLinkUpdate": "https://github.com/ctdlb/PriceInsight-CN/releases/download/v2.11.5/PriceInsight-CN-v2.11.5.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1760936000
+    "LastUpdate": 1760936000  },
+  {
+    "Author": "ctdlb",
+    "Name": "QuickCrossWorld",
+    "InternalName": "QuickCrossWorld",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "快捷跨大区传送。命令或 DTR 选择目标服务器，跨大区依赖 DCTravelerX。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ctdlb/QuickCrossWorld",
+    "Tags": [
+      "travel",
+      "world",
+      "dc",
+      "跨大区"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [],
+    "Punchline": "一条命令快速跨大区",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/ctdlb/QuickCrossWorld/releases/download/v1.0.0/QuickCrossWorld-v1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/ctdlb/QuickCrossWorld/releases/download/v1.0.0/QuickCrossWorld-v1.0.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1760938000
   }
 ]
