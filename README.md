@@ -1,4 +1,4 @@
-# ctdlb 的 Dalamud 插件仓库
+﻿# ctdlb 的 Dalamud 插件仓库
 
 个人维护的卫月（Dalamud）第三方插件源，主要放自己汉化/重构的插件。
 
@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/ctdlb/DalamudPlugins/main/pluginmaster.json
 | 插件 | 说明 | 源码 |
 | --- | --- | --- |
 | TextToTalkCN | 聊天与剧情对话朗读（TTS）简体中文汉化版，适配国服 XIVLauncherCN | [ctdlb/TextToTalkCN](https://github.com/ctdlb/TextToTalkCN) |
+| ItemPriceCheck | 物品价格查询：悬停物品显示市场价（Universalis） | [ctdlb/ItemPriceCheck](https://github.com/ctdlb/ItemPriceCheck) |
 
 ## 说明
 
