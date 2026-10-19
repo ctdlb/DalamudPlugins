@@ -32,34 +32,5 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1760930000
-  },
-  {
-    "Author": "ctdlb",
-    "Name": "ItemPriceCheck",
-    "InternalName": "ItemPriceCheck",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "物品价格查询。鼠标悬停物品时显示市场最低价与近期成交价，数据来自 Universalis。",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/ctdlb/ItemPriceCheck",
-    "Tags": [
-      "price",
-      "market",
-      "universalis",
-      "物品",
-      "价格"
-    ],
-    "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "ImageUrls": [],
-    "Punchline": "悬停物品即可查看市场价（Universalis）",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/ctdlb/ItemPriceCheck/releases/download/v1.0.0/ItemPriceCheck-v1.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/ctdlb/ItemPriceCheck/releases/download/v1.0.0/ItemPriceCheck-v1.0.0.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdate": 1760932000
   }
 ]
