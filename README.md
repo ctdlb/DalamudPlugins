@@ -10,11 +10,7 @@
 https://raw.githubusercontent.com/ctdlb/DalamudPlugins/main/pluginmaster.json
 ```
 
-如果直连 GitHub 打不开，可以换成 CDN 地址（同一个文件）：
-
-```
-https://cdn.jsdelivr.net/gh/ctdlb/DalamudPlugins@main/pluginmaster.json
-```
+如果直连 GitHub 打不开，用系统代理或加速器，不要用 jsDelivr 镜像——它的分支缓存最长 12 小时，新版本会迟迟不出现。
 
 保存后回到「全部插件」，搜索插件名即可安装/更新。
 
