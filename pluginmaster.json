@@ -31,7 +31,8 @@
     "DownloadLinkTesting": "https://github.com/ctdlb/TextToTalkCN/releases/download/v1.43.11-cn/TextToTalkCN-v1.43.11-cn.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1760930000  },
+    "LastUpdate": 1760930000
+  },
   {
     "Author": "Kouzukii（fork 构建：ctdlb）",
     "Name": "Price Insight CN",
