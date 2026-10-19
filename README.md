@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/ctdlb/DalamudPlugins/main/pluginmaster.json
 | 插件 | 说明 | 源码 |
 | --- | --- | --- |
 | TextToTalkCN | 聊天与剧情对话朗读（TTS）简体中文汉化版，适配国服 XIVLauncherCN | [ctdlb/TextToTalkCN](https://github.com/ctdlb/TextToTalkCN) |
+| Price Insight CN | 悬停物品显示市场价格（Universalis，缓存 90 分钟） | [ctdlb/ffxiv-priceinsight](https://github.com/ctdlb/ffxiv-priceinsight) |
 
 ## 说明
 
