@@ -65,5 +65,37 @@
     "DownloadLinkUpdate": "https://github.com/ctdlb/PriceInsight-CN/releases/download/v2.11.5/PriceInsight-CN-v2.11.5.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1760936000  }
+    "LastUpdate": 1760936000
+  },
+  {
+    "Author": "ctdlb",
+    "Name": "Aether Card",
+    "InternalName": "AetherCard",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "显示当前角色、服务器、职业等级、所在区域、本地时间和艾欧泽亚时间。所有数据均为只读，不修改游戏状态。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ctdlb/AetherCard",
+    "Tags": [
+      "cn",
+      "ui",
+      "character",
+      "time"
+    ],
+    "CategoryTags": [
+      "ui",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "一个简洁的玩家信息与艾欧泽亚时间浮窗。",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/ctdlb/AetherCard/releases/download/v0.1.0/AetherCard-v0.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/ctdlb/AetherCard/releases/download/v0.1.0/AetherCard-v0.1.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1792488918
+  }
 ]
