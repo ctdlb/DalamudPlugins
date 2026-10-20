@@ -1,4 +1,4 @@
-# ctdlb 的 Dalamud 插件仓库
+﻿# ctdlb 的 Dalamud 插件仓库
 
 个人维护的卫月（Dalamud）第三方插件源，主要放自己汉化/重构的插件。
 
@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/ctdlb/DalamudPlugins/main/pluginmaster.json
 | --- | --- | --- |
 | TextToTalkCN | 聊天与剧情对话朗读（TTS）简体中文汉化版，适配国服 XIVLauncherCN | [ctdlb/TextToTalkCN](https://github.com/ctdlb/TextToTalkCN) |
 | Price Insight CN | 悬停物品显示市场价格（Universalis，缓存 90 分钟） | [ctdlb/PriceInsight-CN](https://github.com/ctdlb/PriceInsight-CN) |
-| Aether Card | 只读玩家信息浮窗，显示角色、职业、区域、本地时间与艾欧泽亚时间 | [ctdlb/AetherCard](https://github.com/ctdlb/AetherCard) |
 
 ## 说明
 
