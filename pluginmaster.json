@@ -31,7 +31,7 @@
     "DownloadLinkTesting": "https://github.com/ctdlb/TextToTalkCN/releases/download/v1.43.11-cn/TextToTalkCN-v1.43.11-cn.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1760930000
+    "LastUpdate": 1792427774
   },
   {
     "Author": "Kouzukii（fork 构建：ctdlb）",
@@ -65,6 +65,6 @@
     "DownloadLinkUpdate": "https://github.com/ctdlb/PriceInsight-CN/releases/download/v2.11.5/PriceInsight-CN-v2.11.5.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1760936000
+    "LastUpdate": 1792430694
   }
 ]
