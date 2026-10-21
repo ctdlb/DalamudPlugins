@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/ctdlb/DalamudPlugins/main/pluginmaster.json
 | --- | --- | --- |
 | TextToTalkCN | 聊天与剧情对话朗读（TTS）简体中文汉化版，适配国服 XIVLauncherCN | [ctdlb/TextToTalkCN](https://github.com/ctdlb/TextToTalkCN) |
 | Price Insight CN | 悬停物品显示市场价格（Universalis，缓存 90 分钟） | [ctdlb/PriceInsight-CN](https://github.com/ctdlb/PriceInsight-CN) |
-| Sonar CN | 自动收发狩猎与危命情报中继，内置简体/繁体中文，可在「语言设置 → 预设」切换 | [ctdlb/SonarCN](https://github.com/ctdlb/SonarCN)（仅发布构建，不含源码） |
 
 ## 说明
 
