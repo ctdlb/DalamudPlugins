@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Author": "ctdlb（汉化重构）· 原作者 karashiiro",
     "Name": "TextToTalkCN",
@@ -66,5 +66,48 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1792566748
+  },
+  {
+    "Author": "Sonar Team / ctdlb（汉化）",
+    "Name": "Sonar CN",
+    "InternalName": "SonarPlugin-CN",
+    "AssemblyVersion": "15.757.0.0",
+    "Description": "自动收发狩猎与危命情报中继。输入 /sonar 打开主窗口，/sonarconfig 进行设置。本版本为社区汉化构建，内置简体中文与繁体中文，可在「语言设置 → 预设」中切换。源码来自 Sonar Team，技术支持请在 Sonar Support Discord 获取。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ctdlb/SonarCN",
+    "Tags": [
+      "sonar",
+      "hunt",
+      "hunts",
+      "fate",
+      "fates",
+      "relay",
+      "中文",
+      "汉化"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://assets.ffxivsonar.com/dalamud/image1.png",
+      "https://assets.ffxivsonar.com/dalamud/image2.png",
+      "https://assets.ffxivsonar.com/dalamud/image3.png",
+      "https://assets.ffxivsonar.com/dalamud/image4.png",
+      "https://assets.ffxivsonar.com/dalamud/image5.png"
+    ],
+    "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+    "Punchline": "自动收发狩猎与危命情报中继（简体/繁体中文汉化版）",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/ctdlb/SonarCN/releases/download/v15.757.0.0/SonarCN-v15.757.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/ctdlb/SonarCN/releases/download/v15.757.0.0/SonarCN-v15.757.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/ctdlb/SonarCN/releases/download/v15.757.0.0/SonarCN-v15.757.0.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1792606619
   }
 ]
