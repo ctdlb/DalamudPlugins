@@ -23,7 +23,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "ImageUrls": [],
-    "IconUrl": "https://cdn.jsdelivr.net/gh/ctdlb/TextToTalkCN@main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/ctdlb/TextToTalkCN/main/images/icon.png",
     "Punchline": "聊天与剧情对话朗读插件 · 简体中文汉化版",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/ctdlb/TextToTalkCN/releases/download/v1.43.13-cn/TextToTalkCN-v1.43.13-cn.zip",
