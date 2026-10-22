@@ -32,39 +32,5 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1792610750
-  },
-  {
-    "Author": "Kouzukii（fork 构建：ctdlb）",
-    "Name": "Price Insight CN",
-    "InternalName": "PriceInsight-CN",
-    "AssemblyVersion": "2.12.0.0",
-    "Description": "当您鼠标悬停在物品上时会在物品底部展示该物品的 NQ/HQ 市场价格以及最近一次交易记录。\n价格从 Universalis.app 中搜索，缓存保存90分钟\n您可以将鼠标悬停在物品上，点击Alt来刷新价格\n",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/ctdlb/PriceInsight-CN",
-    "Tags": [
-      "marketboard",
-      "items",
-      "price"
-    ],
-    "CategoryTags": [
-      "ui",
-      "utility"
-    ],
-    "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/ctdlb/PriceInsight-CN/main/images/image1.png"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/ctdlb/PriceInsight-CN/main/images/icon.png",
-    "Punchline": "将鼠标悬停在物品上来查看市场价格",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/ctdlb/PriceInsight-CN/releases/download/v2.12.0.0/PriceInsight-CN-v2.12.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/ctdlb/PriceInsight-CN/releases/download/v2.12.0.0/PriceInsight-CN-v2.12.0.0.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdate": 1792652410
   }
 ]
